@@ -1,16 +1,40 @@
-## Hi there 👋
+## hi, i'm alghala >_<
 
-<!--
-**alghalaalamri/alghalaalamri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cs student building my way into tech — one project at a time.
 
-Here are some ideas to get you started:
+i’m interested in ai, computer vision, and game development.  
+right now, i’m focused on learning by actually building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## what i'm working on
+
+- star / constellation detection project (opencv + python)  
+- improving problem solving and thinking like a developer  
+- starting my journey into game development  
+
+---
+
+## currently learning
+
+- python  
+- computer vision  
+- how to break down problems and build solutions  
+
+---
+
+## goals
+
+- build a portfolio i'm proud of  
+- land a tech internship  
+- create a story-driven game one day  
+
+---
+
+## a small note
+this github is my journey.  
+everything here is me learning, improving, and figuring things out as i go.
+
+---
+
+> "Endure and survive." — The Last of Us
